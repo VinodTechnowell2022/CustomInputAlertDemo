@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomInputAlertDemo</string>
+    <string name="enter_updated_data">Enter updated data</string>
+</resources>
